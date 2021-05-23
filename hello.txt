@@ -1,7 +1,6 @@
 hello
 hello1111
 123
-<<<<<<< HEAD
 master
 master_version
 hotfix_1
